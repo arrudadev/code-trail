@@ -10,6 +10,7 @@
     "format:check": "biome check --write . && prettier --check --write ."
   },
   "dependencies": {
+    "@fontsource/roboto": "^5.1.1",
     "@tailwindcss/vite": "^4.0.0",
     "astro": "^5.1.10",
     "tailwindcss": "^4.0.0"
